@@ -1,0 +1,5 @@
+*media/
+*.pyc
+zapio/secrets.json
+zapio/staging_secrets.json
+zapio/creds.py
